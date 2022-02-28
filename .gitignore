@@ -1,0 +1,5 @@
+# Ignored File
+__pycache__/
+*.rar
+*.txt
+.DS_Store
